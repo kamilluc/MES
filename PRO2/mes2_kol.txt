@@ -1,0 +1,4 @@
+pytania z kodu (metodu)
+nie bedzie wzoru na policzenia k11 np
+nie bedzie zadania typu zrob cale zadanie dla 3 ele
+calkowanie jacobian

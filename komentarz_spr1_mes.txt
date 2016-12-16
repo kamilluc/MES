@@ -1,5 +1,6 @@
 wyprowadzenia wzorow funkcjonal i postac macierzowa
 dluzszy wstep
 wykres do przykladu wlasnego
+temperatura jedno m-ce po przecinku
 
 wylsij jeszcze raz
